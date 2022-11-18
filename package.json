@@ -21,7 +21,7 @@
     "@storybook/addon-actions": "^5.1.9",
     "@storybook/addon-backgrounds": "^5.1.9",
     "@storybook/addon-viewport": "^5.1.9",
-    "@storybook/html": "^5.1.9",
+    "@storybook/html": "^6.5.13",
     "babel-loader": "^8.0.6"
   }
 }
